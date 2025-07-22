@@ -1,2 +1,17 @@
 # PromptEngineer-ai-code-quality-analyzer
-A production-ready tool for analyzing AI-generated code using prompt engineering techniques.
+
+## AI Code Quality Analyzer
+
+A sophisticated tool that uses prompt engineering to analyze AI-generated code quality.
+
+## Features
+
+- Multi-stage code analysis
+- AI pattern detection  
+- Support for Python and C++
+- Beautiful reports
+
+## Installation
+
+```bash
+pip install -r requirements.txt

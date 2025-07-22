@@ -1,0 +1,5 @@
+openai>=1.0.0
+anthropic>=0.5.0
+click>=8.0.0
+rich>=13.0.0  # for better CLI output
+pytest>=7.0.0  # for testing
